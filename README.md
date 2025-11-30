@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redf0x25&" alt="redf0x25" /></p>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/RedF0x25/RedF0x25/blob/output/github-snake-dark.svg)
