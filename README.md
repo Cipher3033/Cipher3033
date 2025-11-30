@@ -31,4 +31,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redf0x25&" alt="redf0x25" /></p>
 
 
-(https://github.com/RedF0x25/RedF0x25/blob/output/github-snake-dark.svg)
