@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mehdi</h1>
+<h1 align="center">Hi 👋, I'm cc</h1>
 <h3 align="center">A passionate frontend developer from dz</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redf0x25&label=Profile%20views&color=0e75b6&style=flat" alt="redf0x25" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 📫 How to reach me **magicodzder@gmail.com**
+- 📫 How to reach me **mhdmgc@proton.me**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
