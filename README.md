@@ -1,53 +1,55 @@
 <div align="center">
-  <a href="https://github.com/Cipher3033">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=MAGIC+%2F%2F+CIPHER3033;FOUNDER+OF+THODZ;ZK-PROOF+ARCHITECT;BUILDING+ON+SUI" alt="Typing SVG" />
+
+# MAGIC (CIPHER3033)
+
+### Protocol Architect | ZK-Rollup Engineer | Move Language Specialist
+*Building the privacy layer for the decentralized web.*
+
+<p align="center">
+  <a href="https://twitter.com/drmidnightmagic">
+    <img src="https://img.shields.io/badge/Twitter-Connect-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
+  <a href="mailto:mhdmgc@ptoton.me">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-333?style=flat&logo=protonmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-  ### 🛡️ Privacy. Cryptography. Sovereignty.
-
-  <p align="center">
-    <a href="https://twitter.com/drmidnightmagic">
-      <img src="https://img.shields.io/badge/Twitter-drmidnightmagic-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="mailto:mhdmgc@ptoton.me">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-333?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
-    </a>
-    <img src="https://img.shields.io/badge/Location-Algeria-green?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-  </p>
 </div>
 
 ---
 
-### ⚡ Current Mission: **[GHOST CIRCLE]**
+### 💼 Professional Focus
 
-> *Creating the next generation of privacy on the Sui Network using the proprietary **Golden Triangle Method**.*
+**Current Role:** Lead Architect @ **Ghost Circle** (Privacy Protocol)
 
-- 🔭 **Role:** Lead Engineer & Founder @ **THODZ**
-- 🛠️ **Focus:** Implementing ZK-SNARKs circuits in **Rust & Move**.
-- 🎯 **Goal:** Integrating private DeFi primitives with Sui Wallets.
+> *Architecting non-interactive zero-knowledge proofs (ZK-SNARKs) on the Sui Network to enable institutional-grade privacy for DeFi assets.*
+
+* **Core Research:** The "Golden Triangle" Verification Method.
+* **Infrastructure:** High-performance circuits in **Rust** & **Move**.
+* **Objective:** To solve the on-chain privacy trilemma without compromising scalability.
+
+---
+
+### 🛠️ Technical Stack
+
+| **System Programming** | **Blockchain Architecture** | **DevOps & Security** |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=rust,cpp,c" /> | <img src="https://skillicons.dev/icons?i=solidity" /> **Sui Move** | <img src="https://skillicons.dev/icons?i=linux,docker,bash" /> |
 
 ---
 
-### 🧠 The Arsenal
-
-| **Core & Systems** | **Blockchain & ZK** | **DevOps & Tools** |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=rust,cpp,c,python" /> | <img src="https://skillicons.dev/icons?i=solidity" /> <br/> **Move & Sui** | <img src="https://skillicons.dev/icons?i=linux,docker,git,bash" /> |
-
----
+### 📊 Engineering Metrics
 
 <div align="center">
 
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cipher3033&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cipher3033&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
-  <br/><br/>
-  
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake Animation" width="100%" />
+<br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="snake" />
 
 </div>
 
 <div align="center">
-  <sub>Authorized Node: Cipher3033 // End of File</sub>
+  <sub>© 2026 Cipher3033. All Rights Reserved.</sub>
 </div>
