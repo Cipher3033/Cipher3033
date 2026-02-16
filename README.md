@@ -28,15 +28,15 @@
 
 ---
 
-### 🧠 The Arsenal
 <div align="center">
+
+### 🧠 The Arsenal
+
 | **Core & Systems** | **Blockchain & ZK** | **DevOps & Tools** |
 | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=rust,cpp,c,python" /> | <img src="https://skillicons.dev/icons?i=solidity" /> <br/> **Move & Sui** | <img src="https://skillicons.dev/icons?i=linux,docker,git,bash" /> |
 
----
-
-<div align="center">
+</div>
 
   <br/>
   
