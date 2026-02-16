@@ -1,10 +1,6 @@
 <div align="center">
   <a href="https://github.com/Cipher3033">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=700&size=30&duration=3000&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=SYSTEM_BOOT%3A+CIPHER3033;LOADING_PROTOCOL%3A+GHOST_CIRCLE...;ENCRYPTING_DATA...;TARGET%3A+SUI_NETWORK;ACCESS_GRANTED_w%2F_GOLDEN_TRIANGLE" alt="Boot Sequence" />
-  </a>
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Cipher3033&theme=radical&no-frame=true&margin-w=15&row=1&column=7" alt="Cipher3033 Trophies" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=700&size=30&duration=3000&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=SYSTEM_BOOT%3A+CIPHER3033;LOADING_PROTOCOL%3A+GHOST_CIRCLE...;ENCRYPTING_DATA...;TARGET%3A+SUI_NETWORK;ACCESS_GRANTED" alt="Boot Sequence" />
   </a>
 
   ### 🛡️ Privacy. Cryptography. Sovereignty.
@@ -22,7 +18,11 @@
 ---
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/Cipher3033?template=isometric&base=header,activity,community,repositories,metadata&base.indepth=false&base.hireable=true&isocalendar=1&isocalendar.duration=half-year&config.timezone=Africa%2FAlgiers" alt="Cipher3033 3D Map" width="100%" />
+
+| **Mission Status (Streaks)** | **Weaponry (Languages)** |
+| :---: | :---: |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cipher3033&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cipher3033&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" width="400" /> |
+
 </div>
 
 ---
@@ -50,15 +50,8 @@
 ---
 
 <div align="center">
-
   <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cipher3033&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats" />
-
-  <br/><br/>
-  
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake Animation" width="100%" />
-
 </div>
 
 <div align="center">
