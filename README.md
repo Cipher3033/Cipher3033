@@ -1,46 +1,53 @@
 <div align="center">
-
-# MAGIC (Cipher3033)
-### Founder of @GhostCircle | ZK-Proof Architect on #Sui 💧
-*Building the Golden Triangle. Privacy 🇩🇿*
-
-<p align="center">
-  <a href="https://twitter.com/drmidnightmagic">
-    <img src="https://img.shields.io/badge/Twitter-drmidnightmagic-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://github.com/Cipher3033">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=MAGIC+%2F%2F+CIPHER3033;ZK-PROOF+ARCHITECT;BUILDING+ON+SUI;PRIVACY+MAXIMALIST" alt="Typing SVG" />
   </a>
-  <a href="mailto:mhdmgc@ptoton.me">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-333?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+
+  ### 🛡️ Privacy. Cryptography. Sovereignty.
+
+  <p align="center">
+    <a href="https://twitter.com/drmidnightmagic">
+      <img src="https://img.shields.io/badge/Twitter-drmidnightmagic-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="mailto:mhdmgc@ptoton.me">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-333?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+    </a>
+    <img src="https://img.shields.io/badge/Location-Algeria-green?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  </p>
+</div>
 
 ---
 
-<img src="https://metrics.lecoq.io/Cipher3033?template=isometric&base=header,activity,community,repositories,metadata&base.indepth=false&base.hireable=true&isocalendar=1&isocalendar.duration=half-year&config.timezone=Africa%2FAlgiers" alt="Cipher3033 3D Stats" width="100%" />
+### ⚡ Current Mission: **[GHOST CIRCLE]**
+
+> *Creating the next generation of privacy on the Sui Network using the proprietary **Golden Triangle Method**.*
+
+- 🔭 **Role:** Lead Engineer & Founder @ **Ghost Circle**
+- 🛠️ **Focus:** Implementing ZK-SNARKs circuits in **Rust & Move**.
+- 🎯 **Goal:** Integrating private DeFi primitives with Sui Wallets.
 
 ---
 
-### 🧱 The Architecture (Ghost Circle)
+### 🧠 The Arsenal
 
-> *Current Mission: Solving the Privacy Trilemma on Sui.*
-
-| **Protocol Logic (The Golden Triangle)** | **Infrastructure** |
-| :--- | :--- |
-| Implementing **Non-Interactive ZK-Proofs** to ensure 100% privacy for DeFi assets without sacrificing speed. | Built entirely in **Rust** and **Move** for parallel execution on the Sui Network. |
-
----
-
-### 🛠️ 3D Tech Stack
-
-| **Core** | **Sui & Move** | **DevOps** |
+| **Core & Systems** | **Blockchain & ZK** | **DevOps & Tools** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=rust,cpp,c" /> | <img src="https://skillicons.dev/icons?i=solidity" /> <br/> **Move Language** | <img src="https://skillicons.dev/icons?i=linux,docker,git" /> |
+| <img src="https://skillicons.dev/icons?i=rust,cpp,c,python" /> | <img src="https://skillicons.dev/icons?i=solidity" /> <br/> **Move & Sui** | <img src="https://skillicons.dev/icons?i=linux,docker,git,bash" /> |
 
-<br/>
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cipher3033&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+<div align="center">
+
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cipher3033&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats" />
+
+  <br/><br/>
+  
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake Animation" width="100%" />
+
+</div>
 
 <div align="center">
   <sub>Authorized Node: Cipher3033 // End of File</sub>
-</div>
-
 </div>
