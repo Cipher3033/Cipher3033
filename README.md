@@ -12,17 +12,8 @@
     <a href="mailto:mhdmgc@proton.me">
       <img src="https://img.shields.io/badge/Email-Contact_Me-333?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
     </a>
+    <img src="https://img.shields.io/badge/Location-Algeria-green?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
   </p>
-</div>
-
----
-
-<div align="center">
-
-| **Mission Status (Streaks)** | **Weaponry (Languages)** |
-| :---: | :---: |
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cipher3033&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cipher3033&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" width="400" /> |
-
 </div>
 
 ---
@@ -51,7 +42,13 @@
 
 <div align="center">
   <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cipher3033&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats" />
+
+  <br/><br/>
+  
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake Animation" width="100%" />
+
 </div>
 
 <div align="center">
